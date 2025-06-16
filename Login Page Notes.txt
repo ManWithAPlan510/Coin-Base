@@ -1,0 +1,26 @@
+The Project is a somple login page to refresh my front end dev skills before going into learning again.
+Objective: Create a simploe login page for a web application.
+Should be able to:
+    Prompt the user for their name.
+    Create a username
+    Create a passowrd
+    Prompt for their age
+    Prompt for their date of birth
+    Propmt their telephone number 
+
+    Ensure their username is not taken (later advancement)
+    Ensure password created is valid (later advancement)
+    Ensure both passwords entered match 
+    Ensure age is above 13 
+    Ensure age and date of birth match
+
+Gonna need:
+
+Background image
+Login screen
+Name boxes
+username
+password
+Age boxe (number)
+date of birt (calendar)
+cheackboxes 
